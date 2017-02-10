@@ -1,0 +1,8 @@
+C:\Repos\Log4NetSample\Log4NetSample\bin\Debug\Log4NetSample.exe.config
+C:\Repos\Log4NetSample\Log4NetSample\bin\Debug\Log4NetSample.exe
+C:\Repos\Log4NetSample\Log4NetSample\bin\Debug\Log4NetSample.pdb
+C:\Repos\Log4NetSample\Log4NetSample\bin\Debug\log4net.dll
+C:\Repos\Log4NetSample\Log4NetSample\bin\Debug\log4net.xml
+C:\Repos\Log4NetSample\Log4NetSample\obj\Debug\Log4NetSample.csprojResolveAssemblyReference.cache
+C:\Repos\Log4NetSample\Log4NetSample\obj\Debug\Log4NetSample.exe
+C:\Repos\Log4NetSample\Log4NetSample\obj\Debug\Log4NetSample.pdb
