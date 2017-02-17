@@ -12,6 +12,7 @@ namespace Log4NetSample
         public static log4net.ILog GetLogger([CallerFilePath]string fileName = "")
         {
             return log4net.LogManager.GetLogger(fileName);
+            //test
         }
     }
 }
